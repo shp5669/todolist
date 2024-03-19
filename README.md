@@ -1,6 +1,6 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://shp5669.github.io/todolist/" target="_blank">seanpark</a>
+  To-Do List<br/>
+  <a href="https://shp5669.github.io/todolist/" target="_blank">To-Do List</a>
 </h2>
 
 <br/>
